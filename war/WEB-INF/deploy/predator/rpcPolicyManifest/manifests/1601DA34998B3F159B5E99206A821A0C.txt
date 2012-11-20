@@ -1,0 +1,2 @@
+serviceClass: pretox.predator.client.GreetingService
+path: 6C15BED21EE6A74E250C00E303E59EF1.gwt.rpc
